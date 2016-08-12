@@ -25,7 +25,7 @@
     "alouette": "^5.1.0"
   },
   "devDependencies": {
-    "eslint": "^2.8.0",
+    "eslint": "^3.3.0",
     "eslint-config-pob": "^5.0.0",
     "springbokjs-library": "^17.0.0"
   }
